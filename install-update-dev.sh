@@ -5,5 +5,6 @@ brew install --cask yt-music
 brew install --cask iterm2
 brew install --cask slack
 brew install --cask flycut
-
+brew install --cask vivaldi
+brew install --cask sublime-text
 brew upgrade
