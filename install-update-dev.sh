@@ -10,6 +10,6 @@ brew install --cask slack
 brew install --cask flycut
 brew install --cask vivaldi
 brew install --cask sublime-text
-brew install --cask spotify
+#brew install --cask spotify
 brew install --cask zwift
 brew upgrade
