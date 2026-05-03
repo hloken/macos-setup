@@ -11,7 +11,13 @@ brew install --cask slack
 brew install --cask flycut
 brew install --cask vivaldi
 brew install --cask sublime-text
+brew install smartmontools
 #brew install --cask spotify
 brew install --cask zwift
 brew install dotnet-sdk
+brew install kubectl
+brew install k9s
+brew install claude
+brew install --cask github
+brew install azure-cli
 brew upgrade
