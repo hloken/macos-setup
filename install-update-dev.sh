@@ -20,4 +20,5 @@ brew install k9s
 brew install claude
 brew install --cask github
 brew install azure-cli
+brew install --cask visual-studio-code
 brew upgrade
